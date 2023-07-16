@@ -10,8 +10,8 @@
 Clone Repository
 
 ```bash
-1. git clone https://github.com/sadabnepal/PlaywrightTypeScriptTestFramework.git
-2. Navigate to PlaywrightTypeScriptTestFramework
+1. git clone https://github.com/sadabnepal/PlaywrightTypeScript.git
+2. Navigate to PlaywrightTypeScript
 ```
 
 Install the dependencies
