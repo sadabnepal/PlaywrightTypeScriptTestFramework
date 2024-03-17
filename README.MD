@@ -10,8 +10,13 @@
 Clone Repository
 
 ```bash
-1. git clone https://github.com/sadabnepal/PlaywrightTypeScript.git
-2. Navigate to PlaywrightTypeScript
+git clone https://github.com/sadabnepal/playwright-typescript-test.git
+cd playwright-typescript-test
+```
+
+Install Browsers
+```
+npx playwright install chromium
 ```
 
 Install the dependencies

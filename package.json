@@ -1,5 +1,5 @@
 {
-  "name": "playwright-typescript-test-framework",
+  "name": "playwright-typescript-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,11 @@
     "report": "playwright show-report"
   },
   "keywords": [],
-  "author": "",
+  "author": "Md Sadab Saqib",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.35.1"
+    "@playwright/test": "^1.42.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
   }
 }
